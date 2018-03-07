@@ -4,6 +4,20 @@ Titanic entry for Kaggle
 ### Kaggle-titanic
 This is my Kaggle entry for Titanic Machine Learning From Disaster. 
 
+Quick Start: View a static version of the notebook in the comfort of your own web browser by going to http://nbviewer.jupyter.org/ and copy and the url https://github.com/austinxhawk/Titanic_entry.git.
+
+Installation:
+To run this notebook interactively:
+
+Download this repository in a file by clicking on this link or execute this from the terminal: git clone https://github.com/austinxhawk/Titanic_entry.git
+Install virtualenv.
+Navigate to the directory where you unzipped or cloned the repo and create a virtual environment with virtualenv env.
+Activate the environment with source env/bin/activate
+Install the required dependencies with pip install -r requirements.txt.
+Execute ipython notebook from the command line or terminal.
+Click on Titanic.ipynb on the IPython Notebook dasboard and enjoy!
+When you're done deactivate the virtual environment with deactivate.
+
 #### Dependencies:
 * [NumPy](http://www.numpy.org/)
 * [IPython](http://ipython.org/)
@@ -11,7 +25,6 @@ This is my Kaggle entry for Titanic Machine Learning From Disaster.
 * [SciKit-Learn](http://scikit-learn.org/stable/)
 * [SciPy](http://www.scipy.org/)
 * [StatsModels](http://statsmodels.sourceforge.net/)
-* [Patsy](http://patsy.readthedocs.org/en/latest/)
 * [Matplotlib](http://matplotlib.org/)
 
 
